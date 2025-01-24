@@ -1,0 +1,3 @@
+print("if join, your life is wasted to hell")
+print ("avlo tha nammala muduchu vittinga ponga")
+print("no irunga bhai moment will come in this college ")
